@@ -56,7 +56,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <repository>ceuramaster/customer-permision-checker</repository>
+                    <repository>ceuramaster/customer-permission-service</repository>
                     <tag>${project.version}</tag>
                     <buildArgs>
                         <JAR_FILE>${project.build.finalName}.jar</JAR_FILE>
